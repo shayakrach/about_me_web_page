@@ -1,3 +1,3 @@
 # Shay Rachmany WebPage
 
-just click on index.html and engoy (:
+Just click on index.html and engoy (:
